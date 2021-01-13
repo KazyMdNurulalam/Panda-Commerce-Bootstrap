@@ -1,0 +1,30 @@
+h1{
+    font-size: 40px;
+}
+.categories img{
+    height: 100px;
+}
+.categories-radius{
+    border-radius: 10px;
+}
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.Backpack-sec{
+    margin: 100px auto;
+}
+.carousel-bg{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+
+.carousel-bg-margin img{
+    padding: 20px;
+}
+.carousel-bg-margin{
+    margin: 100px auto;
+}
